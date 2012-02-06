@@ -1,8 +1,8 @@
 #Widget_table_for - ActiveAdmin
 
-This is a widget table for active admin. It allows you to have very similar functionality to index page tables.
+This is a widget table for active admin. It allows you to have very similar functionality to index page tables. Multiple widget tables can be created on a single page each with their own pagination and sorting.
 
-Pagination, and sorting work correctly, along with default actions as normal.
+Pagination, and sorting work correctly, along with `default_actions` as normal.
 
 There are no filter panels or scopes yet.
 
